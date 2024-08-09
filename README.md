@@ -2,7 +2,7 @@
 
 ## PortFolio-Frontend-Developer
 
-### SITE EM FUNCIONAMENTO
+### SITE EM FUNCIONAMENTO = https://davicode-portfolio.netlify.app/
 
 Este é o meu portfólio de Frontend Developer. O site está em pleno funcionamento e mostra alguns dos projetos em que trabalhei, bem como informações sobre minhas habilidades e experiências.
 
